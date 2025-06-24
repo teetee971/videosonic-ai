@@ -1,0 +1,16 @@
+{
+    "name": "Vid\u00e9oSonic Quantum AI",
+    "short_name": "Vid\u00e9oSonic",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "G\u00e9n\u00e9rateur de vid\u00e9os et sons IA nouvelle g\u00e9n\u00e9ration",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "64x64",
+            "type": "image/x-icon"
+        }
+    ]
+}

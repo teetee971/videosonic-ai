@@ -1,0 +1,15 @@
+alerts:
+  email:
+    provider: SendGrid
+    recipients:
+      - admin@videosonic.ai
+    thresholds:
+      cpu: 85
+      ram: 80
+  sms:
+    provider: Twilio
+    recipients:
+      - "+1234567890"
+    thresholds:
+      cpu: 90
+      ram: 85
