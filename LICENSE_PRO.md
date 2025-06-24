@@ -1,6 +1,3 @@
-# VidéoSonic Quantum AI - License PRO
+# LICENSE_PRO
 
-This license grants commercial use rights under specific terms.
-Resale, white-labeling, and multi-tenant SaaS deployment are permitted under paid plans only.
-
-Contact legal@videosonic.ai for full terms.
+Ce logiciel est 100% propriétaire. Toute copie, modification ou diffusion non autorisée est interdite.
